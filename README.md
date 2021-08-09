@@ -3,7 +3,7 @@ Reward credit process is implemented in laravel 8 project under "Application" fo
 ## Kunyo Test Solution
 
 Answers are listed under "answers" folder.
-- For Question 1, under "Ans 1" folder, 
+- For Question 1, under "answers/Ans 1" folder, 
 	database schema "kunyo-db-schema.sql", diagram "kunyo-db-schema-diagram.png", reward flow chart "kunyo-reward-flowchart.png" and "reward functions.php" files are listed.
 	
 	Reward credit process is implemented in laravel project under "Application" folder
@@ -17,8 +17,8 @@ Answers are listed under "answers" folder.
 	5. In case of complete order status, customer reward will be added by calculating reward points(converting to USD currency if diffrent currency is used) and deducting reward point if any used.
 	6. Order request is complete and customer is displayed success confirmation message.
 
-- For Question 2, "answer2.php" file contains the sql and result of query.
-- For Question 3, "answer3.php" file contains the calculation and result of GST.
+- For Question 2, "answers/answer2.php" file contains the sql and result of query.
+- For Question 3, "answers/answer3.php" file contains the calculation and result of GST.
 
 
 ## About Laravel
